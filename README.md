@@ -108,11 +108,13 @@ V = number of vertices, E = number of edges.
 Edit `graph_data.py` to add locations or change distances. Keep the coordinates consistent with the distances: the straight-line distance between two connected places must never be greater than the road distance, otherwise A* may not return the shortest path.
 
 ## Output
-Add your screenshots to an `output/` folder and show them here:
-```
-![Terminal output](output/terminal.png)
-![Streamlit app](output/app.png)
-```
+## Output
+
+<img src="https://github.com/user-attachments/assets/c03834f1-2f14-440a-9c62-b0d783776aae" width="700" alt="Shortest Path Finder Output 1">
+
+<img src="https://github.com/user-attachments/assets/e35a2b5b-9646-422c-8125-54cddd0200f3" width="700" alt="Shortest Path Finder Output 2">
+
+<img src="https://github.com/user-attachments/assets/9304dcd8-d793-4694-93ba-5dc38aaa7a7f" width="700" alt="Shortest Path Finder Output 3">
 
 ## Author
 Krisha
